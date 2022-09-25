@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/uncle_timii" target="blank"><img src="https://img.shields.io/twitter/follow/uncle_timii?logo=twitter&style=for-the-badge" alt="uncle_timii" /></a> </p>
 
-- 🌱 I’m currently learning **Next Js.**
 
 - 👯 I’m looking to collaborate on **frontend projects and make connections.**
 
