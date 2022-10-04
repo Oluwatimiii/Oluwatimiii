@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on **frontend projects and make connections.**
 
-- 💬 Ask me about **tailwind, javascript and react js.**
-
 - 📫 How to reach me **oketimilehin32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
